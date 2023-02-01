@@ -1,14 +1,12 @@
-.class-one,
-.class-two,
-.class-three {
+.class-odd {
     color: black; 
     background-color: rgb(255, 162, 156);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
     font-size: 20px;
 }
 
 .class-two {
-    font-size: 32px;
+    font-size: 24px;
 }
 
 #id-two {
@@ -19,7 +17,7 @@
 
 #id-four {
     background-color: rgb(107, 255, 106);
-    font-size: 30px;
-    font-weight: 800;
+    font-size: 24px;
+    font-weight: bold;
     font-family: Monaco, Verdana, Helvetica;
 }
