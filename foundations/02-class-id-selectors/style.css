@@ -4,10 +4,11 @@
     color: black; 
     background-color: rgb(255, 162, 156);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
 }
 
 .class-two {
-    font-size: 35px;
+    font-size: 32px;
 }
 
 #id-two {
@@ -19,6 +20,6 @@
 #id-four {
     background-color: rgb(107, 255, 106);
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 800;
     font-family: Monaco, Verdana, Helvetica;
 }
