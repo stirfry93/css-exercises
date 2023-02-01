@@ -7,16 +7,18 @@
 }
 
 .class-two {
-    font-size: larger;
+    font-size: 35px;
 }
 
 #id-two {
     color:blue;
     font-size: 45px;
+    font-family: Monaco, Verdana, Helvetica;
 }
 
 #id-four {
     background-color: rgb(107, 255, 106);
-    font-size: larger;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: Monaco, Verdana, Helvetica;
 }
