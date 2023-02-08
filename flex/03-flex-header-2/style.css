@@ -11,6 +11,7 @@ body {
 .header {
   background: white;
   border-bottom: 1px solid #ddd;
+  padding: 10px;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
 }
 
@@ -46,3 +47,26 @@ a {
 ul {
   list-style-type: none;
 }
+
+/*making changes below*/
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-and-links {
+  display: flex;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+}
+
+.notif-and-profile {
+  display: flex;
+  gap: 20px;
+}
+
